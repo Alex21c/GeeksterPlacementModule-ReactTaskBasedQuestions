@@ -4,7 +4,7 @@
 
 ## Hosted Version of the Project:
 
-[mlcToDoPrjName](https://mlcToDoPrjName.vercel.app/)
+[Q.1 Stepper Component](https://geekster-placement-module-react-task-based-questions.vercel.app/)
 
 ## How to install and run in yours local machine
 
