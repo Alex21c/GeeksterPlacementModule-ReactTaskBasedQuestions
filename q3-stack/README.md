@@ -4,7 +4,7 @@
 
 ## Hosted Version of the Project:
 
-[Q.3 Stack](#)
+[Q.3 Stack](https://geekster-placement-module-react-task-based-questions-xbk5.vercel.app/)
 
 ## How to install and run in yours local machine
 
