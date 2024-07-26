@@ -4,7 +4,7 @@
 
 ## Hosted Version of the Project:
 
-[Q.2 Tabs](#)
+[Q.2 Tabs](https://geekster-placement-module-react-task-based-questions-req3.vercel.app/)
 
 ## How to install and run in yours local machine
 
