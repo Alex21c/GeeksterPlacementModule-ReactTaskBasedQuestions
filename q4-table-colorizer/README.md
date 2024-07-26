@@ -4,7 +4,7 @@
 
 ## Hosted Version of the Project:
 
-[Q.4 Table Colorizer](https://peppy-axolotl-84a357.netlify.app/)
+[Q.4 Table Colorizer](https://66a37f9cb42883000893e0cc--q4-table-colorizer.netlify.app/)
 
 ## How to install and run in yours local machine
 
