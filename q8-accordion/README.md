@@ -4,7 +4,7 @@
 
 ## Hosted Version of the Project:
 
-[Q.8 Accordion](https://q7-anagram-checker.netlify.app/)
+[Q.8 Accordion](https://q8-accordion.netlify.app/)
 
 ## How to install and run in yours local machine
 
