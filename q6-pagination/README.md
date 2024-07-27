@@ -4,7 +4,7 @@
 
 ## Hosted Version of the Project:
 
-[Q.6 Pagination](#)
+[Q.6 Pagination](https://main--q6-pagination.netlify.app/)
 
 ## How to install and run in yours local machine
 
