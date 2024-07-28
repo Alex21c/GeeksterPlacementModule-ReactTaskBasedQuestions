@@ -4,7 +4,7 @@
 ![](thumbnail.png)
 
 ## Hosted Version of the Project:
-[10 Solved ReactJS Task based Questions by Abhishek kumar](#)
+[10 Solved ReactJS Task based Questions by Abhishek kumar](https://alex21c.github.io/GeeksterPlacementModule-ReactTaskBasedQuestions/)
 
 ## Tech. Stack Used:
 
