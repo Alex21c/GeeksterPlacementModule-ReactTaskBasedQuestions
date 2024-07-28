@@ -4,7 +4,7 @@
 
 ## Hosted Version of the Project:
 
-[Q.10 Column Table](https://main--q9-image-gallery.netlify.app/)
+[Q.10 Column Table](https://q10-column-table.netlify.app/)
 
 ## How to install and run in yours local machine
 
