@@ -1,7 +1,7 @@
 # GeeksterPlacementModule-ReactTaskBasedQuestions
 
 # 10 ReactJS Task based Question | Geekster Placement Module #7
-![]()
+![](thumbnail.png)
 
 ## Hosted Version of the Project:
 [10 Solved ReactJS Task based Questions by Abhishek kumar](#)
